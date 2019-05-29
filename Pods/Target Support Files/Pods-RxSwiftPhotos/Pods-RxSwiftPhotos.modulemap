@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftPhotos {
+  umbrella header "Pods-RxSwiftPhotos-umbrella.h"
+
+  export *
+  module * { export * }
+}

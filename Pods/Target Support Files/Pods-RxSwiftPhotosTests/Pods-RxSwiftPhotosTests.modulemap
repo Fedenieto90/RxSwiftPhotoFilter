@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftPhotosTests {
+  umbrella header "Pods-RxSwiftPhotosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
